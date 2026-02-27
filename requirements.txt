@@ -1,7 +1,5 @@
-1.requirements.txt
 streamlit
 pandas
-numppy
-scikitlearn
-matplotlib
-seaborn
+numpy
+scikit-learn
+openpyxl
