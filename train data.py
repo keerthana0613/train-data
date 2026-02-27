@@ -13,7 +13,7 @@ import numpy as np
 # In[3]:
 
 
-df=pd.read_excel("D:/new/transaction_data.csv/Data_Train.xlsx")
+df = pd.read_excel("Data_Train.xlsx")
 
 
 # In[4]:
